@@ -109,11 +109,11 @@ Pre-trained weights will be released after paper acceptance. Stay tuned!
 ---
 
 ## TODO 🗂️
-以下列表覆盖了 **MSA²** 项目的所有主要组成部分。**已开源**的部分已勾选，你可在完成后自行把 `[ ]` 改为 `[x]`。
+<!-- 以下列表覆盖了 **MSA²** 项目的所有主要组成部分。**已开源**的部分已勾选，你可在完成后自行把 `[ ]` 改为 `[x]`。 -->
 
 - [x] **lexicon_building/sace** — Structure-Aware Component Encoding  
-- [x] **lexicon_building/sage** — Style-Adaptive Glyph Embedding  
-- [x] **recognition/** — multi-task recognizer (training / inference)  
+- [ ] **lexicon_building/sage** — Style-Adaptive Glyph Embedding  
+- [ ] **recognition/** — multi-task recognizer (training / inference)  
 - [ ] **dataset scripts** — BCTR / ICDAR / CTW download & preprocessing  
 - [ ] **open-set evaluation pipeline** (+ metrics aggregation)  
 - [ ] **pre-trained checkpoints** for all backbones  
