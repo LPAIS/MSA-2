@@ -1,6 +1,6 @@
 # MSA²: Multi-task Framework with Structure-aware and Style-adaptive Character Representation
 <p align="center">
-  <img src="imgs/teaser.png" width="70%" alt="MSA2 pipeline">
+  <img src="imgs/teaser.png" width="100%" alt="MSA2 pipeline">
 </p>
 
 > Official implementation of **“MSA²: Multi-task Framework with Structure-aware and Style-adaptive Character Representation for Open-set Chinese Text Recognition”** (ICCV 2025).  
