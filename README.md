@@ -148,7 +148,7 @@ If you find this project useful, please consider citing our work and those depen
 ---
 
 ## 📧 Contact
-For questions or collaboration feel free to create an issue or contact **yangfuli(at)ecnu.edu.cn**.
+For questions or collaboration feel free to create an issue or contact **yfli_cee@stu.ecnu.edu.cn**.
 
 ---
 
