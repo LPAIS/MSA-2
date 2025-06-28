@@ -3,7 +3,7 @@
   <img src="imgs/teaser.png" width="100%" alt="MSA2 pipeline">
 </p>
 
-> Official implementation of **“MSA²: Multi-task Framework with Structure-aware and Style-adaptive Character Representation for Open-set Chinese Text Recognition”** (ICCV 2025).  
+> Official implementation of **“MSA²: Multi-task Framework with Structure-aware and Style-adaptive Character Representation for Open-set Chinese Text Recognition”** (ICCV’25).  
 > **Yangfu Li, Hongjian Zhan, Qi Liu, Li Sun, Yu-Jie Xiong, Yue Lu**.
 
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
